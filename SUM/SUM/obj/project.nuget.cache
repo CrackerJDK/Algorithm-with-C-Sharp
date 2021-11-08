@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7mstlbKVUw9oUW+yqc9v7ILLsPDu1Q5abIIgiWjLwG6h/g+d0MjgAYbkFYIZcO5tG4B2RibwiBO8sA2za9zAdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Desktop\\New Folder\\SUM\\SUM\\SUM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
